@@ -2,8 +2,7 @@
 
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
-android developer, Java, Android Studio, Xml ·
-It is a system developed in android studio through which
+It is a system developed in Android studio through which
 faculty can register the number of students in a particular
 class then register the number of subjects in that class and can mark the attendance of the students.
 <h2>Features Available</h2>
@@ -26,7 +25,8 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Simple  designed interface</li>
 </ul>
 <h3 id="requirement" class="notes">Software Requirement</h3>
-<ul>
+
+
  	<li>Android Studio</li>
  	<li>Latest Version</li>
  	<li>Internet Connection</li>
